@@ -1,0 +1,40 @@
+/* 主体不同样式部分 */
+.main_login{border: 5px solid #efefef;overflow: hidden;height: 430px;}
+.main_login .main_loginImg{width:580px;float:left;}
+.login{float:right;height: 370px;width:344px;margin:30px 0;padding-left:40px;border-left:1px solid #ccc;}
+.login .input_top{padding-right: 20px;padding-top: 20px;}
+.login .input_top .input_user{height: 82px;}
+.login .input_top span{line-height: 24px;font:14px/24px"";color:#999999}
+.login .input_top span.warnUser{line-height: 24px;font:12px/24px"";color:#F45353;display: none;}
+.login .input_top .userName{width:270px;height: 32px;border: 1px solid #efefef;line-height: 32px;text-align: center;}
+.login .input_top .userName input{width:230px;border:none;outline:none;line-height: 26px;}
+ 
+.login .input_top{border-bottom: 1px dashed #dedede;padding-bottom: 14px;}
+.login .input_top .input_pass{height: 82px;}
+.login .input_top .password{width:270px;height: 32px;border: 1px solid #efefef;line-height: 32px;text-align: center;}
+.login .input_top .password input{width:230px;border:none;outline:none;line-height: 26px;}
+.login .input_top span.warnPass{line-height: 24px;font:12px/24px"";color:#F45353;display: none;}
+.login .input_top .checked{height: 22px;line-height:22px;}
+.login .input_top .checked input{line-height:22px;vertical-align:text-bottom;}
+.login .input_top .checked span{margin:0 12px;}
+.login .input_top .checked a{color:#7B98F4;}
+.login .input_top .checked a:hover{text-decoration:underline;}
+.login .input_top #sub{width:270px;height:35px;margin:12px 0;cursor:pointer;border-radius:2px;box-shadow:0 0 5px #e2393c;background:#e2393c;border:none;outline:none;font:600 18px/35px"";color:#fff;}
+.login .input_top p.other a:nth-of-type(2){margin:0 10px;}
+.login .input_top p.other a:hover{color:#D9E44C;}
+.login .input_bottom{margin-top:12px;}
+.login .input_bottom button{width:134px;height:32px;background:#ebeaeb; border:1px solid #D9D6D6;border-radius:4px;}
+.login .input_bottom button a{color:#E41111;}
+.login .input_bottom button a:hover{text-decoration:underline;}
+
+.main .errorBox1{width:100px;height:10px;background:#F55D5D;position: absolute;top:300px;left:-120px;opacity:.6 ;}
+.main .errorBox1:after{content:"";height:0;width:0;border:20px solid #F55D5D;border-right:20px solid transparent;border-bottom:20px solid transparent;border-top:20px solid transparent;position:absolute;right:-40px;top:-15px;}
+.main .errorBox2{width:100px;height:10px;background:#F55D5D;position: absolute;top:218px;left:-120px;opacity:.6 ;}
+.main .errorBox2:after{content:"";height:0;width:0;border:20px solid #F55D5D;border-right:20px solid transparent;border-bottom:20px solid transparent;border-top:20px solid transparent;position:absolute;right:-40px;top:-15px;}
+
+
+
+
+
+
+

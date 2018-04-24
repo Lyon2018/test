@@ -1,0 +1,47 @@
+
+main .freight{height:40px;font:14px/40px"";}
+main .freight i{display:inline-block; height:30px;font:14px/30px"";color:#fff; padding:0 4px; background: #f3b083;text-align: center;}
+main .tableList{height:40px;background: #eaeaea;line-height:40px;padding:0 20px;border-top: 2px solid #A3A1A1;}
+main .tableList span{margin-right:80px;}
+main .tableList span input{vertical-align:middle;}
+main .tableList span:nth-of-type(2){margin-right:280px;}
+main .shopList{border: 1px solid #ccc;margin-top: 8px;padding-bottom: 20px;}
+main .shopList p{height: 40px; border-bottom:1px solid #ccc;line-height:40px;background: #f7f7f7;padding-left: 10px;}
+main .shopList p input{vertical-align:middle;margin-right: 20px;}
+
+main .shopList ul{overflow: hidden;}
+main .shopList ul li{float:left;height:90px;line-height: 90px;text-align: center;}
+main .shopList ul li i{display: inline-block; width:14px;height: 14px;cursor: pointer;border: 1px solid #000;line-height: 14px;text-align: center;}
+
+main .shopList ul li:nth-of-type(1){width:40px;}
+main .shopList ul li:nth-of-type(2){width:400px;text-align:left;}
+main .shopList ul li:nth-of-type(2) img{width:60px;height:60px;border: 1px solid #000;}
+main .shopList ul li a:hover{color:#E91B1B;}
+main .shopList ul li:nth-of-type(3){width:100px;}
+main .shopList ul li:nth-of-type(4){width:160px;}
+main .shopList ul li:nth-of-type(4) input{display: inline-block; width:50px;height: 24px;margin:0 4px;border: 1px solid #000;line-height: 50px;text-align: center;}
+main .shopList ul li:nth-of-type(5){width:100px;}
+main .shopList ul li:nth-of-type(6){width:100px;}
+
+main .goCount{height: 50px;border:1px solid #eaeaea;margin-top: 10px;background:#f7f7f7;padding-top: 10px;padding-right: 10px;text-align: right;}
+main .goCount span{line-height: 50px;}
+main .goCount span i#totalPri1{font-size:16px;color:#E91515;margin:0 10px;}
+main .goCount button{width:160px;height: 42px;background: #e23430;border: none;border-radius:6px; outline: none;color:#fff;font-size:20px;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

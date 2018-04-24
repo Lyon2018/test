@@ -1,0 +1,130 @@
+.margin{width: 970px;margin:auto;}
+
+/* top 公共样式部分 */
+.header_top{width:100%;height:25px;border-bottom:1px solid #d2d2d2;background: #f2f2f2;border-top: 1px solid #b6b4b6;}
+.header_top_content{}
+.header_top .content_l{float: left;width:80px;position: relative;line-height: 25px;text-align: center;}
+.header_top .content_l>a{float:left;width:16px;height: 16px;margin:0 5px;}
+.header_top .content_l>a:nth-of-type(2):hover{padding-bottom:6px;border-bottom:4px solid #7F5BF0;}
+.header_top .content_l .saoma_img{position: absolute;top:25px;left:0;border: 1px solid #e7a374;display: none;width:240px;height: 240px;}
+.header_top .content_l .saoma_img img{width:240px;height: 240px;}
+.header_top .content_l>a:nth-of-type(2):hover .saoma_img{display: block;}
+
+.header_top .content_r{float: right;line-height: 25px;text-align: center;}
+.header_top .content_r>a{padding: 0 8px;}
+.header_top .content_r .last{float:right;padding: 0 16px;position: relative;width:48px;}
+.header_top .content_r .last:hover{background:#fff;box-shadow: 0 0 6px #ccc;height:100px}
+.header_top .content_r .last .service{position: absolute;top:25px;left:0;display: none;}
+.header_top .content_r .last:hover .service{background:#fff;display: block;width:80px;}
+.header_top .content_r .last .service a{display: block;}
+.header_top .content_r a:hover{color:#EF4141;}
+.logo{height:100px;line-height: 100px;}
+
+/* 主体不同样式部分 */
+main .main{height:560px;border: 1px solid #d2d2d2;box-sizing: border-box;padding:30px;}
+main .main .register{float: left;width:640px;border-right:1px solid #ccc;}
+main .main .register_inp{margin:28px 0;overflow: hidden;}
+main .main .register_inp p{float: left;line-height: 32px;font: 14px/32px"";}
+main .main .register_inp p span{color:#ED3838;font:18px;line-height: 32px;}
+main .main .register_inp div{float: left;width:274px;height: 32px;border:1px solid #ccc;line-height: 32px;text-align: center;}
+main .main .register_inp div input{border:none;outline: none;width:220px;}
+main .main .register_inp>span{float: left;width:180px;height: 32px;font:12px/32px"";margin-left:4px;background:#efefef;border: 1px solid #ccc;}
+main .main .yzCode{overflow: hidden;}
+main .main .yzCode p{float:left;}
+main .main .yzCode p span{color:#ED3838;font:18px;line-height: 32px;}
+main .main .yzCode div{float: left;width:114px;height: 32px;border:1px solid #ccc;line-height: 32px;text-align: center;}
+main .main .yzCode div input{width:110px;border: none;outline: none;}
+main .main .yzCode b{float: left;width:110px;height: 32px;background:#EFECEC;font:600 24px/32px"";text-align: center;}
+main .main .yzCode>span{float: left;width:100px;height: 32px;font:12px/32px"";margin-left:4px;background:#efefef;border: 1px solid #ccc;}
+main .main .submit{padding-left:100px;}
+main .main .submit div{width:420px;height: 32px;font:14px/32px"";margin-top:12px;}
+main .main .submit div>input{vertical-align:text-bottom;margin-right: 6px;}
+main .main .submit>input{width:230px;height: 34px;font:18px/32px"";outline:none;border: none;border-radius: 3px;box-shadow: 0 0 6px #000; margin-top:12px;text-align: center;background:#e2393c;color:#fff;}
+.disHide{display: none;}
+main .main .direct_login{height:425px;}
+main .main .direct_login .direct_login_con{float:right;height:83px;width:230px;border-bottom:1px solid #ccc;display: flex;flex-direction: column;align-items: center;}
+main .main .direct_login .direct_login_con span{font:12px/32px"";}
+main .main .direct_login .direct_login_con button{width:136px;height: 32px;border-radius:4px; background:#f3f1f2;border:1px solid #ccc;text-align: center;}
+main .main .direct_login .direct_login_con button a{font:16px/32px"";color:#F08080;}
+/* footer_底部公共样式部分 */
+.bottom{}
+.bottom .copy{width:710px;height:30px;margin:64px auto;line-height:50px;text-align: center;}
+.bottom .copy a{margin:0 14px;}
+.bottom .copy span{margin:0 8px;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
